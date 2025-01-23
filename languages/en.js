@@ -110,7 +110,6 @@ module.exports = {
         **📂 Commands:** {totalCommands}
         **🌐 Servers:** {totalServers}
         **👥 Users:** {totalUsers}
-        **⏳ Uptime:** {uptimeString}
         **📡 Ping:** {ping}ms
         `,
         availableCommands: "Available Commands",
@@ -276,5 +275,3 @@ module.exports = {
       generalError: "- Error: {error}"
     }
   };
-
-  
